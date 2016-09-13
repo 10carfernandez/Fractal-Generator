@@ -5,7 +5,7 @@ MOTIVATION: I was originally writing code that would generate fractal image file
 
 Though I could have used some libraries in lieu of creating some of these objects by hand, I did it for the purpose of getting more practice in and acquainted with Java and object-oriented programming (OOP).
 
-As you might be able to tell, I'm not too experienced in UI coding for Java (as opposed to web UI in C#), but it gets the job done, more or less.
+As you might be able to tell, I am still learning about UI coding for Java and hence there may be some violations in some of the conventions used in Java for UI development. It does work the way it is supposed to, though I will change some of the code to satisfy such conventions as I become aware of them.
 
 DESCRIPTION: The main image that is generated is a Mandelbrot set, and the image on the top left corner is the Julia set corresponding to the point at which the Mandelbrot set is centered.
 
